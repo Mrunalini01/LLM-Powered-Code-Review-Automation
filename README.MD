@@ -121,18 +121,3 @@ Set `HUMAN_LANGUAGE` to receive reviews in your preferred language. Examples:
 - `ja` - Japanese
 - And more...
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Created by [@tusgino](https://github.com/tusgino)
-
-## Support
-
-If you encounter any issues or have questions, please file them in the [Issues](https://github.com/tusgino/llm-code-reviewer/issues) section.
